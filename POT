@@ -1,0 +1,5 @@
+['firefox', 'vlc', 'idea64', 'league of legends', 'intellij idea', 'music', 'ck2', 'processing', 'anki']
+{'partial': True, 'caseInsensitive': True, 'stdoutOnUpdate': False, 'trackType': 1, 'autoRun': -1}
+88.0
+C:\DDOX\Dated\logs\POT/
+2.0
